@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Aisha",
+        "age": 27,
+        "city": "Bangalore",
+        "bioSnippet": "Life is about small joys — coffee, rain, and conversations.",
+        "psychScore": 82,
+        "vedicScore": 76,
+        "moonSign": "Cancer",
+        "personalityType": "INFP",
+        "lookingFor": "Date-to-Marry",
+        "psychJustification": "You both value emotional depth and authentic connections",
+        "vedicJustification": "Your Moons are in a 5–9 relationship, fostering harmony"
+    },
+    {
+        "name": "Rohan",
+        "age": 30,
+        "city": "Pune",
+        "bioSnippet": "Curious mind, runner, amateur chef.",
+        "psychScore": 71,
+        "vedicScore": 83,
+        "moonSign": "Aries",
+        "personalityType": "ENTP",
+        "lookingFor": "Dating",
+        "psychJustification": "Complementary thinking styles create intellectual chemistry",
+        "vedicJustification": "Strong planetary alignment in Mars and Jupiter"
+    },
+    {
+        "name": "Meera",
+        "age": 24,
+        "city": "Delhi",
+        "bioSnippet": "Empathy is my superpower; books + hot chocolate = bliss.",
+        "psychScore": 89,
+        "vedicScore": 68,
+        "moonSign": "Pisces",
+        "personalityType": "INFJ",
+        "lookingFor": "Date-to-Marry",
+        "psychJustification": "Shared empathy and intuitive understanding of emotions",
+        "vedicJustification": "Moon placement supports emotional connection"
+    },
+    {
+        "name": "Arjun",
+        "age": 29,
+        "city": "Hyderabad",
+        "bioSnippet": "Ambitious entrepreneur, cricket lover, foodie.",
+        "psychScore": 65,
+        "vedicScore": 79,
+        "moonSign": "Leo",
+        "personalityType": "ENTJ",
+        "lookingFor": "Dating",
+        "psychJustification": "Aligned ambition levels and leadership qualities",
+        "vedicJustification": "Sun-Moon combination creates natural compatibility"
+    },
+    {
+        "name": "Sneha",
+        "age": 26,
+        "city": "Mumbai",
+        "bioSnippet": "Marketing strategist who loves salsa, poetry, and the sea breeze.",
+        "psychScore": 77,
+        "vedicScore": 81,
+        "moonSign": "Libra",
+        "personalityType": "ENFJ",
+        "lookingFor": "Date-to-Marry",
+        "psychJustification": "Both value creativity and social connection",
+        "vedicJustification": "Venus influence brings harmony and mutual appreciation"
+    },
+    {
+        "name": "Kabir",
+        "age": 32,
+        "city": "Chennai",
+        "bioSnippet": "Engineer turned traveler; hiking trails are my second home.",
+        "psychScore": 73,
+        "vedicScore": 75,
+        "moonSign": "Sagittarius",
+        "personalityType": "ISTP",
+        "lookingFor": "Dating",
+        "psychJustification": "Shared love for adventure and independence",
+        "vedicJustification": "Jupiter's placement encourages exploration together"
+    }
+]
